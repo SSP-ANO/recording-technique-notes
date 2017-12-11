@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Class Introduction}{2}
+\contentsline {subsection}{\numberline {1.1}Strike}{2}
+\contentsline {section}{\numberline {2}DIs}{2}
+\contentsline {subsection}{\numberline {2.1}Why}{2}
+\contentsline {subsection}{\numberline {2.2}Features \& Mechanics}{2}
+\contentsline {subsection}{\numberline {2.3}Passive DI}{3}
+\contentsline {subsection}{\numberline {2.4}Active DI}{3}
